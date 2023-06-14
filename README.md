@@ -1,4 +1,4 @@
-# Steps 
+### Game Project 
 
 para correr el proyecto debe seguir las siguientes intrucciones en la terminal
 ```sh
