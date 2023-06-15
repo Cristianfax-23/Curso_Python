@@ -1,7 +1,7 @@
-import charts
+import grf
 
 def run():
-    charts.grafice_pie()
+    grf.grafica()
 
 
 if __name__=="__main__":
